@@ -78,7 +78,7 @@ streamlit run main.py
 
  ## Project Structure
 
-main.py: Streamlit application script
-langchain_helper.py: Langchain code
-requirements.txt: Required Python packages
-.env: Configuration file for Google API key
+- main.py: Streamlit application script
+- langchain_helper.py: Langchain code
+- requirements.txt: Required Python packages
+- env: Configuration file for Google API key
