@@ -44,33 +44,37 @@ Showcase the potential of cutting-edge AI and semantic search technologies in th
 1. Clone the repository:
 
 ```
-git clone https://github.com/
+git clone https://github.com/LokeshReddy09/CodeBasics-QA-LLM.git
 ```
 
 2. Install dependencies:
 
-Bash
+```
 pip install -r requirements.txt
+```
 
 3. Get a Google API key and add it to .env:
+
+```
 GOOGLE_API_KEY="your_api_key_here"
+```
 
  ## Usage
 
-Run the Streamlit app:
-Bash
+- Run the Streamlit app:
+
+```
 streamlit run main.py
-Use code with caution. Learn more
-content_copy
-Create the knowledge base in the app (wait for completion).
-Ask questions in the provided box!
+```
+
+- Create the knowledge base in the app (wait for completion).
+- Ask questions in the provided box!
 
  ## Sample Questions
 
-Do you offer internships or EMI payments?
-Do you have a JavaScript course?
-Should I learn Power BI or Tableau?
-How can I enable Power Pivot?
+- Do you offer internships or EMI payments?
+- Do you have a JavaScript course?
+- Should I learn Power BI or Tableau?
 
  ## Project Structure
 
