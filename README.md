@@ -43,9 +43,9 @@ Showcase the potential of cutting-edge AI and semantic search technologies in th
 
 1. Clone the repository:
 
-Bash
+```
 git clone https://github.com/
-
+```
 
 2. Install dependencies:
 
